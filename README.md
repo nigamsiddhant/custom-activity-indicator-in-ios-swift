@@ -1,4 +1,4 @@
-# progressdialog
+# custom progressdialog ios swift
 
 Copy the global file into your project and the loader gif 
 install pod 'SwiftyGif' to your project
