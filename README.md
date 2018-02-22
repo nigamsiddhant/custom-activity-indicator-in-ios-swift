@@ -1,4 +1,4 @@
-# Custom-activity-indicator-in-ios-swift
+# Custom activity indicator in ios swift
 
 
 Copy the global file into your project and the loader gif 
